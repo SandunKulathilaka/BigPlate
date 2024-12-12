@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["02sgqj",(a,e)=>{var r,t,h=()=>{var a=r();return!t.has(a)};return[()=>{t=new Set(["zh","iw","ar","el","ja","ko","ru","th","vi"]),a("default",h)},[a=>r=a.useLanguage]]},["7thqz4"]]);
